@@ -5,7 +5,7 @@ Este proyecto está dedicado a la descarga, pre-preparación, procesamiento de d
 
 
   1. Función **get_max_duration**: película con mayor duración con filtros opciones de Año, Plataforma y Tipo de Duración.
-Consulta [Link get_max_duration] (https://startup-de-servicios-de-streaming-gh7h.onrender.com/get_max_duration/%7Banio%7D/%7Bplataforma%7D/%7Bdtype%7D?year=2021&platform=hulu&duration_type=min)
+     Consulta [Link get_max_duration](https://startup-de-servicios-de-streaming-gh7h.onrender.com/get_max_duration/%7Banio%7D/%7Bplataforma%7D/%7Bdtype%7D?year=2021&platform=hulu&duration_type=min)
 
 Consulta #2
 https://startup-de-servicios-de-streaming-gh7h.onrender.com/get_score_count/disney/3.2/2011
