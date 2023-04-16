@@ -2,8 +2,9 @@
 from fastapi import FastAPI
 import pandas as pd
 import uvicorn
-import bokeh
 import numpy as np
+from typing import Optional
+from typing import List, Tuple
 
 
 # Se crea la app donde se realizarán las consultas.
