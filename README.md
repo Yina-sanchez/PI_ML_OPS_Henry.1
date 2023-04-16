@@ -1,7 +1,10 @@
 # PI_ML_OPS_Henry.1
 Este proyecto está dedicado a la descarga, pre-preparación, procesamiento de datos y desarrollo de una API que  disponibilice la información de la empresa.
 
-https://startup-de-servicios-de-streaming-gh7h.onrender.com/docs#/
+ **[Acceso a la documentación en render.com]([https://pi-ml-ops-n120.onrender.com/docs](https://startup-de-servicios-de-streaming-gh7h.onrender.com/docs#/))** desde donde podrás acceder a todas las consultas desarrolladas.
+
+
+
 Consulta #1
 https://startup-de-servicios-de-streaming-gh7h.onrender.com/get_max_duration/%7Banio%7D/%7Bplataforma%7D/%7Bdtype%7D?year=2021&platform=hulu&duration_type=min
 Consulta #2
