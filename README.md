@@ -22,8 +22,8 @@ Este proyecto está dedicado a la descarga, pre-preparación, procesamiento de d
 
  5. Función **prod_per_county** Cantidad de contenidos/productos (todo lo disponible en streaming) que se publicó por país y año.
 
-   Consulta #5 [Link prod_per_county](https://startup-de-servicios-de-streaming-gh7h.onrender.com/prod_per_county/movie/argentina/2020)
+    Consulta #5 [Link prod_per_county](https://startup-de-servicios-de-streaming-gh7h.onrender.com/prod_per_county/movie/argentina/2020)
 
  6. Función **get_contents** Cantidad total de contenidos/productos  según el rating de audiencia dado (para que publico fue clasificada la pelicula).
    
-   Consulta #6 [Link get_contents](https://startup-de-servicios-de-streaming-gh7h.onrender.com/get_contents/tv-g)
+    Consulta #6 [Link get_contents](https://startup-de-servicios-de-streaming-gh7h.onrender.com/get_contents/tv-g)
