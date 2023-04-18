@@ -2,7 +2,28 @@
 Este proyecto está dedicado a la descarga, pre-preparación, procesamiento de datos y desarrollo de una API que  disponibilice la información de la empresa.
 
  **Acceso a la documentación en render.com [https://startup-de-servicios-de-streaming.onrender.com/docs](https://startup-de-servicios-de-streaming-gh7h.onrender.com/docs#/)**   desde donde podrás acceder a todas las consultas desarrolladas.
+ 
+ Propuesta de trabajo:
+ Transformaciones: Para este MVP no necesitas perfección, ¡necesitas rapidez! ⏩ Vas a hacer estas, y solo estas, transformaciones a los datos:
 
+ * Generar campo id: Cada id se compondrá de la primera letra del nombre de la plataforma, seguido del show_id ya presente en los datasets 
+
+ * Los valores nulos del campo rating deberán reemplazarse por el string “G” (corresponde al maturity rating: “general for all audiences”
+
+ * De haber fechas, deberán tener el formato AAAA-mm-dd
+
+ * Los campos de texto deberán estar en minúsculas, sin excepciones
+
+ * El campo duration debe convertirse en dos campos: duration_int y duration_type. El primero será un integer y el segundo un string indicando la unidad de medición de duración: min (minutos) o season (temporadas)
+ 
+ Desarrollo API: Propones disponibilizar los datos de la empresa usando el framework FastAPI, generando diferentes endpoints que se consumiran en la API.
+ 
+ Análisis exploratorio de los datos: (Exploratory Data Analysis-EDA)
+ 
+ Sistema de recomendación
+ * Éste consiste en recomendar películas a los usuarios basándose en películas similares, por lo que se debe encontrar la similitud de puntuación entre esa película y el resto de películas, se ordenarán según el score y devolverá una lista de Python con 5 valores
+ 
+ [Video ExplicaciExplicación]()
 
   1. Función **get_max_duration**: película con mayor duración con filtros opciones de Año, Plataforma y Tipo de Duración.
   
