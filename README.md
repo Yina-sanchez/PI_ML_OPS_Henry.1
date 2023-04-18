@@ -1,10 +1,10 @@
 # PI_ML_OPS_Henry.1
-Este proyecto está dedicado a la descarga, pre-preparación, procesamiento de datos y desarrollo de una API que  disponibilice la información de la empresa.
+# Este proyecto está dedicado a la descarga, pre-preparación, procesamiento de datos y desarrollo de una API que  disponibilice la información de la empresa.
 
  **Acceso a la documentación en render.com [https://startup-de-servicios-de-streaming.onrender.com/docs](https://startup-de-servicios-de-streaming-gh7h.onrender.com/docs#/)**   desde donde podrás acceder a todas las consultas desarrolladas.
  
  Propuesta de trabajo:
- Transformaciones: Para este MVP no necesitas perfección, ¡necesitas rapidez! ⏩ Vas a hacer estas, y solo estas, transformaciones a los datos:
+ # Transformaciones: [Link: ](https://github.com/Yina-sanchez/PI_ML_OPS_Henry.1/blob/main/ETl_plataformas_stremer.ipynb)
 
  * Generar campo id: Cada id se compondrá de la primera letra del nombre de la plataforma, seguido del show_id ya presente en los datasets 
 
@@ -16,14 +16,16 @@ Este proyecto está dedicado a la descarga, pre-preparación, procesamiento de d
 
  * El campo duration debe convertirse en dos campos: duration_int y duration_type. El primero será un integer y el segundo un string indicando la unidad de medición de duración: min (minutos) o season (temporadas)
  
- Desarrollo API: Propones disponibilizar los datos de la empresa usando el framework FastAPI, generando diferentes endpoints que se consumiran en la API.
+ # Desarrollo API: Propones disponibilizar los datos de la empresa usando el framework FastAPI, generando diferentes endpoints que se consumiran en la API. [Link: ](https://github.com/Yina-sanchez/PI_ML_OPS_Henry.1/blob/main/API.ipynb)
  
- Análisis exploratorio de los datos: (Exploratory Data Analysis-EDA)
+ # Análisis exploratorio de los datos: (Exploratory Data Analysis-EDA) [Link: ](https://github.com/Yina-sanchez/PI_ML_OPS_Henry.1/blob/main/EDA_plataformas.ipynb)
  
- Sistema de recomendación
+ # Sistema de recomendación   [Link: ](https://github.com/Yina-sanchez/PI_ML_OPS_Henry.1/blob/main/ML_sistema_recomendacion.ipynb)
  * Éste consiste en recomendar películas a los usuarios basándose en películas similares, por lo que se debe encontrar la similitud de puntuación entre esa película y el resto de películas, se ordenarán según el score y devolverá una lista de Python con 5 valores
  
- [Video ExplicaciExplicación]()
+ [**Video ExplicaciExplicación**]()
+ 
+ # Consulta de las funciones 
 
   1. Función **get_max_duration**: película con mayor duración con filtros opciones de Año, Plataforma y Tipo de Duración.
   
