@@ -27,3 +27,8 @@ Este proyecto está dedicado a la descarga, pre-preparación, procesamiento de d
  6. Función **get_contents** Cantidad total de contenidos/productos  según el rating de audiencia dado (para que publico fue clasificada la pelicula).
    
     Consulta #6 [Link get_contents](https://startup-de-servicios-de-streaming-gh7h.onrender.com/get_contents/tv-g)
+  
+ 7. Función **get_recommendation** Sistema de recomendación
+    
+    Consulta #7 [Link get_recommendation](https://startup-de-servicios-de-streaming-gh7h.onrender.com/get_recommendation/sing%20and%20dance%20with%20kiiyii)
+    
