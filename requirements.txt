@@ -31,7 +31,7 @@ fastjsonschema==2.16.2
 filelock==3.9.0
 fonttools==4.38.0
 fqdn==1.5.1
-fsspec==2023.3.0
+fsspec
 h11==0.14.0
 idna==3.4
 importlib-metadata==6.1.0
@@ -43,7 +43,7 @@ isoduration==20.11.0
 jedi==0.18.2
 Jinja2==3.1.2
 joblib==1.2.0
-jsonpointer==2.3
+jsonpointer
 jsonschema==4.17.3
 jupyter==1.0.0
 jupyter-console==6.4.4
@@ -88,7 +88,7 @@ prompt-toolkit==3.0.36
 psutil==5.9.4
 pure-eval==0.2.2
 pyarrow==11.0.0
-pycountry==22.3.5
+pycountry
 pycparser==2.21
 pydantic==1.10.7
 Pygments==2.13.0
@@ -138,5 +138,5 @@ webcolors==1.12
 webencodings==0.5.1
 websocket-client==1.4.2
 widgetsnbextension==4.0.4
-xyzservices==2023.2.0
+xyzservices
 zipp==3.15.0
